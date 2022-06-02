@@ -3,7 +3,7 @@
 body{
     font-family: 'Kumbh Sans', sans-serif;
     background-color: hsl(185, 75%, 39%) !important;
-    background: url(images/bg-pattern-bottom.svg) 67em 15em , url(images/bg-pattern-top.svg) -62em -80em;
+    background: url(images/bg-pattern-bottom.svg) 67vh 15vh , url(images/bg-pattern-top.svg) -62vh -80vh;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
